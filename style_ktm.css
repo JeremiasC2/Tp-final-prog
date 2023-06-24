@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#menu{
+    background-color: purple;
+    font-size: 20px;
+
+}
+
+#container{
+    background-color: blueviolet;
+    height: 1200px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#fotos{
+    background-color: grey;
+    width: 500px;
+    height: 1000px;
+}
+ #int {
+    background-image: url(int.jpg);
+    height: 250px;
+    color: paleturquoise;
+    text-align: center;
+ }
+ 
+ #trans{
+    background-image: url(trans.jpg) ;
+    height: 250px;
+    width: px;
+    text-align: center;
+    font-size: 20px;
+    color: red;
+ }
+
+#Inicio{
+    background-color: violet;
+    width: auto;
+    height: 695px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+#TKM{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+#Noticias{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: blueviolet;
+    padding-left: 90px;
+
+}
+#selena{
+    background-image: url(selena.jpg);
+    height: 250px;
+    color: burlywood;
+    text-align: center;
+}
+
+#top{
+    background-image: url(top.gif);
+    height: 250px;
+    color: antiquewhite;
+    text-align: center;
+}
+
+#a{
+    font-size: 25px;
+}
+#b{
+    font-size: 25px;
+}
+#c{
+    font-size: 25px;
+}
+#d{
+    font-size: 25px;
+}

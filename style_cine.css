@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#menu{
+    background-color: purple;
+    font-size: 20px; }
+#estrenos{
+    position: absolute;
+    top: 130px;
+    padding-left: 600px;
+    font-size: 45px;
+}
+#container{
+    background-color:blueviolet;
+    width: auto;
+    height: 400px;
+    display: flex;
+    justify-content: column;
+    align-items:start ;
+    padding-top: 150px;
+
+}
+#rapidos{
+    position: absolute;
+    top: 215px;
+    padding-left: 5px;
+    font-size: 2em;
+}
+#ra{
+    font-size: 19px;
+    padding-left: 10px;
+    background-color:burlywood;
+    height: 288px;
+}
+#container2{
+    background-color: blueviolet;
+    width: auto;
+    height: 400px;
+    display: flex;
+    justify-content: column;
+    align-items:start ;
+    padding-top: 150px;
+}
+#a{
+    position: absolute;
+    top: 620px;
+    padding-left: 5px;
+    font-size: 2em;
+}
+#fla{
+    font-size: 19px;
+    padding-left: 10px;
+    background-color:burlywood;
+    height: 288px;
+}
+#container3{
+    background-color: blueviolet;
+    width: auto;
+    height:400px;
+    display: flex;
+    justify-content: column;
+    align-items:start ;
+    padding-top: 150px;
+}
+#b{
+    position: absolute;
+    top: 620px;
+    padding-left: 5px;
+    font-size: 2em;
+}
+#sirr{
+    font-size: 19px;
+    padding-left: 10px;
+    height:288px ;
+    background-color:burlywood
+}
+#container3{
+    background-color: blueviolet;
+    width: auto;
+    height: 400px;
+    display: flex;
+    justify-content: column;
+    align-items:start ;
+    padding-top: 150px;
+}
+#c{
+    position: absolute;
+    top: 1015px;
+    padding-left: 5px;
+    font-size: 2em;
+}
+#transs{
+    font-size: 19px;
+    padding-left: 10px;
+    background-color:burlywood;
+    height: 288px;
+}
+#container4{
+    background-color: blueviolet;
+    width: auto;
+    height: 400px;
+    display: flex;
+    justify-content: column;
+    align-items:start ;
+    padding-top: 150px;
+}
+#d{
+    position: absolute;
+    top: 1415px;
+    padding-left: 5px;
+    font-size: 2em;
+}
+#container5{
+    background-color: blueviolet;
+    width: auto;
+    height: 800px;
+    display: flex;
+    justify-content: column;
+    align-items:start ;
+    padding-top: 150px;
+}
+#e{
+    position: absolute;
+    top: 1820px;
+    padding-left: 5px;
+    font-size: 2em;
+}
+#elee{
+    font-size: 19px;
+    padding-left: 10px;
+    background-color:burlywood;
+    height: 288px;
+}
+#peliculas{
+    width: auto;
+    height: 450px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+}
+#peliculas2{
+    display: flex;
+    justify-content: space-around;
+    background-color: blueviolet;
+}
+#pel1{
+    font-size: 25px;
+}
+#pel2{
+    font-size: 25px;
+}
+#pel3{
+    font-size: 25px;
+    position: absolute;
+    top: 2895px;
+    left: 140px;
+}
+#pel4{
+    font-size: 25px;
+    position: absolute;
+    top: 2895px;
+    left: 820px;
+}
+#pel5{
+    font-size: 25px;
+}
+
+#a{
+    position: absolute;
+    top: 2380px;
+    right: 500px;
+}

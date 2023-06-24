@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#menu{
+    background-color: purple;
+    font-size: 20px;
+
+}
+#container{
+    width: auto;
+    height: 1400px;
+    background-color:antiquewhite;
+
+}
+
+#aa{
+    position: absolute;
+    top: 140px;
+    font-size: 3em;
+}
+
+#noticias{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#foto1{ 
+    padding-top: 140px;
+    padding-left: 50px;
+}
+#ibai{
+    font-size: 37px;
+}
+#foto2{
+    padding-left: 900px;
+    position: absolute;
+    top: 355px;
+
+}
+#shak{
+    font-size: 15px;
+}
+#foto3{
+    padding-left: 900px;
+    position: absolute;
+    top: 585px;
+}
+
+#tay{
+    font-size: 15px;
+}
+#foto4{
+    padding-top: 60px;
+    padding-left: 50px;
+}
+
+#marte{
+    font-size: 37px;
+}
+
+
+#foto5{
+    padding-left: 900px;
+    position: absolute;
+    top: 960px;
+}
+#kar{
+    font-size: 15px;
+}
+
+#foto6{
+    padding-left: 900px;
+    position: absolute;
+    top: 1190px;
+}
+#camilo{
+    font-size: 15px;
+}

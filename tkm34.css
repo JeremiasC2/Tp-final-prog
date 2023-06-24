@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#menu{
+    background-color: purple;
+    font-size: 20px;
+
+}
+#container{
+    width: auto;
+    height: 900px;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#noticia{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#foto{
+    width: 1000px;
+    height: 500px;
+    background-color: antiquewhite;
+    padding-top: px;
+    padding-left: px;
+}
+
+#taylor{
+    position:absolute;
+    padding-left: 350px;
+}
+#h11{
+    font-size: 40px;
+    padding-left: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pp{
+    padding-left: 10px;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#aa{
+    position: absolute;
+    top: 200px;
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#container2{
+    background-color: blueviolet;
+    width: auto;
+    height: 550px;
+}
+#foto2{
+    height: 315px;
+}
+#darin{
+    font-size: 1em;
+}
+#fotot{
+    border: 10px solid black;
+}
+#foto2{
+    background-color: beige;
+    height: 409px;
+}
+#peach{
+    padding-left: 450px;
+    font-size: 2em;
+}
+#texto{
+    padding-left: 440px;
+    font-size: 17px;
+}
+#cher {
+    position: absolute;
+    top: 1015px;
+    border: 5px solid black;
+}
+#container3{
+    background-color: blueviolet;
+    width: auto;
+    height: 550px;
+}
+#foto3{
+    background-color: beige;
+    height: 409px;
+}
+#whatsapp{
+    padding-left: 450px;
+    font-size: 2em;
+}
+#texto2{
+    padding-left: 440px;
+    font-size: 17px;
+}
+#whats{
+    position: absolute;
+    top: 1565px;
+    border: 5px solid black;
+}
+#foto4{
+    background-color: beige;
+    height: 409px;
+}
+#churro{
+    padding-left: 450px;
+    font-size: 2em;
+}
+#texto3{
+    padding-left: 440px;
+    font-size: 17px;
+}
+#messi{
+    position: absolute;
+    top: 2115px;
+    border: 5px solid black;
+}
+#container4{
+    background-color: blueviolet;
+    width: auto;
+    height: 550px;
+}
+#foto5{
+    background-color: beige;
+    height: 409px;
+}
+#ia{
+    padding-left: 450px;
+    font-size: 2em;
+}
+#texto4{
+    padding-left: 440px;
+    font-size: 17px;
+}
+#iai{
+    position: absolute;
+    top: 2665px;
+    border: 5px solid black;
+}
+#container5{
+    background-color: blueviolet;
+    width: auto;
+    height: 300px;
+}
